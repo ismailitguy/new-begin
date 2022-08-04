@@ -17,6 +17,7 @@ $(function () {
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 	
 	$(document).ready(function(){
+		(edited
 		$('[data-toggle="tooltip"]').tooltip();
 	});
 	
